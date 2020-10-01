@@ -1,2 +1,2 @@
-# micro
-Practice OOP code projects
+# Data Viz
+A web-based investigation into why our bill was so high
